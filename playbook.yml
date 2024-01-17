@@ -1,0 +1,4 @@
+---
+- name: Main playbook
+  connection: local
+  hosts: localhost
